@@ -1,1 +1,1 @@
-# Code301
+permalink: /index.html
