@@ -46,7 +46,7 @@ class Tooltip extends HTMLElement {
   }
 }
 
-window.customElements.define('howto-tooltip', HowtoTooltip);
+window.customElements.define('tool-tip', Tooltip);
 
 
   
